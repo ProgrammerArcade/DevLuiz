@@ -1,11 +1,5 @@
 ### Olá! eu sou o Luiz Felipe Carmorgo Rodrigues 🫡
 
-name: Generate Datas
-
-on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
-  workflow_dispatch:
 
 jobs:
   build:
